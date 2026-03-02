@@ -3,4 +3,4 @@ uvicorn[standard]
 pandas
 scikit-learn
 pydantic
-python-multipart      # if you ever need uploads
+python-multipart     
